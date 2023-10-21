@@ -1,0 +1,7 @@
+define if staement:
+An if statement is a selection statement that allows more than one possible flow of control. 
+An if statement lets you conditionally process a statement when the specified test expression.
+it alsoimplicitly converted to bool , evaluates to true .
+example
+if (score >= 90) grade = 'A'; The following example displays Number is positive if the value of number is greater than or equal to 0 .
+If the value of number is less than 0 , it displays Number is negative .
